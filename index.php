@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Slimstat Analytics - Extended Overview
-Description: Monitor your registered users by tracking their activities and time on site.
+Description: Add custom columns to the User Overview widget and export file.
 Version: 1.0
 Author: Slimstat Analytics
 Author URI: http://www.wp-slimstat.com/
