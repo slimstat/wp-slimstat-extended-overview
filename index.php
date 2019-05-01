@@ -4,7 +4,7 @@ Plugin Name: Slimstat Analytics - Extended Overview
 Description: Add custom columns to the User Overview widget and export file.
 Version: 1.0
 Author: Slimstat Analytics
-Author URI: http://www.wp-slimstat.com/
+Author URI: https://wp-slimstat.com/
 */
 
 class wp_slimstat_extended_overview {
